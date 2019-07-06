@@ -1,11 +1,18 @@
 {
   "name": "algorithms-ts",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Algorithms written in Typescript.",
+  "author": "Ricardo Pereira",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmlpp/algorithms-ts"
+  },
   "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
   "devDependencies": {
-    "@types/node": "^12.0.8",
+    "@types/node": "^12.0.12",
     "typescript": "^3.5.2"
   }
 }
